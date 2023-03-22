@@ -9,5 +9,6 @@ authors:
   - family-names: Putman
     given-names: Tim
 title: "TIMS HAPI Terminology Server"
+url: "https://github.com/HOT-Ecosystem/tims-hapi-terminology-server"
 version: 0.1.0
 
