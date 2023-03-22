@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 authors:
-  - family-names: Shahim
+  - family-names: Essaid
     given-names: Shahim
 title: "TIMS HAPI Terminology Server"
 version: 0.1.0
